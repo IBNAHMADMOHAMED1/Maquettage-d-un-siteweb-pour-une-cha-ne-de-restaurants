@@ -1,0 +1,16 @@
+	tasks:
+
+	       _______zoning_________
+
+IMANE : Wireframe on desktop 
+Mohamed: Wireframe on mobile 
+
+		_______desktop_________
+
+IMANE :  Menu in home page prototype  / Menu page prototype
+Mohamed:home page prototype /Contact page prototype
+
+		_______mobile_________
+
+IMANE :  Home /Contact 
+Mohamed: Menu in home  / Menu
